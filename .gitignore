@@ -1,7 +1,7 @@
-!.gitkeep
-
 data/*
 work_dirs/
 
 .DS_Store
 __pycache__
+
+!.gitkeep
